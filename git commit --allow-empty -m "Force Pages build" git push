@@ -1,0 +1,2 @@
+git commit --allow-empty -m "Force Pages build"
+git push
