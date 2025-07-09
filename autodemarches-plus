@@ -1,1 +1,7 @@
+git clone https://github.com/tonpseudo/autodemarches-plus.git
+cd autodemarches-plus
+# Ajoute tes fichiers dans ce dossier
+git add .
+git commit -m "Mise en ligne AutoDémarches+"
+git push
 
